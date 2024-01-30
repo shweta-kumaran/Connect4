@@ -1,0 +1,6 @@
+Player: 1 0 2
+Player: 2 0 0
+Player: 1 0 3
+Player: 2 1 0
+Player: 1 0 4
+Player: 2 0 1
